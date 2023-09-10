@@ -19,6 +19,9 @@ label{
 button{text-align: center;}
 .button{
     width: 1230px;
-    text-align: center;
-    /*padding: 15px 20px;*/
-    }
+    text-align: center;}
+
+img{
+    width: 100px;
+    height: 100px;
+}
