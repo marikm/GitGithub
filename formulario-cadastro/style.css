@@ -1,0 +1,24 @@
+main{
+    text-align: center;
+    width: 100%;
+    margin: 0px 0;
+}
+
+
+div{
+
+    width: 700px;
+    text-align: right;
+}
+
+label{
+    width: 800px;
+    text-align: left;
+}
+
+button{text-align: center;}
+.button{
+    width: 1230px;
+    text-align: center;
+    /*padding: 15px 20px;*/
+    }
